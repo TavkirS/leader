@@ -19,7 +19,6 @@
 ## 📁 प्रकल्प संरचना
 
 ```
-political-campaign-website/
 ├── index.html                 # मुख्य HTML फाइल
 ├── manifesto-template.html    # Manifesto PDF template
 ├── content/
@@ -41,7 +40,6 @@ political-campaign-website/
 ```bash
 # Clone या repository ला किंवा download करा ZIP
 git clone [repository-url]
-cd political-campaign-website
 ```
 
 ### 2. Local Server चालवा
@@ -208,5 +206,6 @@ Issues आणि pull requests welcome!
 
 **Contact**: फय्यझ शेख — [+91-9876543210](tel:+919876543210)
 **Website**: [fayyazshaikh.in](https://fayyazshaikh.in)
+
 
 
