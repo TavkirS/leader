@@ -1,0 +1,8 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f7fafc"/>
+  <text x="200" y="140" text-anchor="middle" fill="#1a365d" font-family="Arial" font-size="16" font-weight="bold">जनसंपर्क सभा</text>
+  <rect x="120" y="160" width="160" height="80" fill="#ff6b35" opacity="0.7" rx="10"/>
+  <text x="200" y="250" text-anchor="middle" fill="#1a365d" font-family="Arial" font-size="12">🏛️ Community Hall</text>
+</svg>
+
+

@@ -1,0 +1,9 @@
+<!-- This would be a PNG logo file. For demo purposes, creating an SVG placeholder -->
+<svg width="200" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="80" fill="#1a365d" rx="8"/>
+  <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial" font-size="16" font-weight="bold">फय्यझ शेख</text>
+  <text x="100" y="50" text-anchor="middle" fill="#ff6b35" font-family="Arial" font-size="12">राष्ट्रवादी काँग्रेस (टुटारी)</text>
+  <text x="100" y="65" text-anchor="middle" fill="white" font-family="Arial" font-size="10">प्रभाग क्र. 4</text>
+</svg>
+
+

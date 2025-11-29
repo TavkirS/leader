@@ -1,0 +1,290 @@
+{
+  "site": {
+    "name": "फय्याज भाऊ शेख — नगरसेवक उमेदवार",
+    "name_en": "Fayyaz Bhai Shaikh — Municipal Council Candidate",
+    "tagline": "प्रभाग क्र. 13 साठी आपल्या सेवेत",
+    "tagline_en": "Serving Ward No. 13",
+    "party": "राष्ट्रवादी काँग्रेस पक्ष (टुटारी)",
+    "party_en": "Nationalist Congress Party (Tutari)",
+    "ward": "प्रभाग क्र. 13",
+    "ward_en": "Ward No. 13"
+  },
+  "meta": {
+    "title": "फय्याज भाऊ शेख — नगरसेवक उमेदवार (प्रभाग क्र. 13) | राष्ट्रवादी काँग्रेस पक्ष (टुटारी)",
+    "title_en": "Fayyaz Bhai Shaikh — Municipal Council Candidate (Ward 13) | Nationalist Congress Party (Tutari)",
+    "description": "फय्याज भाऊ शेख — प्रभाग क्र. 13 साठी उभा असलेला विश्वासू उमेदवार. पारदर्शक सेवा, मूलभूत सुविधांचे विकास आणि नागरिकांना श्रवण हे आमचे वचन. संपर्क करा आणि आपल्या भागात बदल घडवून आणूया.",
+    "description_en": "Fayyaz Bhai Shaikh — A trustworthy candidate standing for Ward 13. Transparent service, development of basic amenities and listening to citizens is our promise. Contact us and bring change to our area.",
+    "keywords": "नगरसेवक, उमेदवार, प्रभाग 13, राष्ट्रवादी काँग्रेस, फय्याज भाऊ शेख, municipal council, candidate, ward 13, nationalist congress, fayyaz bhai shaikh"
+  },
+  "hero": {
+    "headline": "फय्याज भाऊ शेख — प्रभाग क्र. 13 साठी आपल्या सेवेत",
+    "headline_en": "Fayyaz Bhai Shaikh — Serving Ward No. 13",
+    "subheadline": "पारदर्शक नेतृत्व, जलद निर्णय, आणि विकासावर वचनबद्ध.",
+    "subheadline_en": "Committed to transparent leadership, quick decisions, and development.",
+    "primary_cta": "आता सहभागी व्हा",
+    "primary_cta_en": "Join Now",
+    "secondary_cta": "आमचा घोषणापत्र डाउनलोड करा",
+    "secondary_cta_en": "Download Our Manifesto"
+  },
+  "about": {
+    "title": "उमेदवाराविषयी",
+    "title_en": "About the Candidate",
+    "content": "फय्याज भाऊ शेख हे प्रभाग क्रमांक 13 साठी राष्ट्रवादी काँग्रेस (टुटारी)चे उमेदवार आहेत. ते स्थानिक समस्यांचे त्वरित निराकरण करण्यावर आणि पारदर्शक प्रशासन व सुधारित मूलभूत सुविधांवर भर देतात. शेख साहेबांना लोकसेवा आणि समाजोत्थानाची प्रगल्भ समज असून ते प्रत्येक मतदाराशी संवाद साधण्यासाठी तयार आहेत.",
+    "content_en": "Fayyaz Bhai Shaikh is the candidate of Nationalist Congress (Tutari) for Ward No. 13. He focuses on quick resolution of local issues and transparent administration and improved basic amenities. Shaikh Sahab has a deep understanding of public service and social upliftment and is ready to communicate with every voter.",
+    "quick_facts": {
+      "candidacy": "प्रभाग क्र. 13",
+      "candidacy_en": "Ward No. 13",
+      "party": "राष्ट्रवादी काँग्रेस पक्ष (टुटारी)",
+      "party_en": "Nationalist Congress Party (Tutari)",
+      "contact": "संपर्कासाठी फॉर्म भरा",
+      "contact_en": "Fill contact form",
+      "address": "प्रचार कार्यालय: [तुमचा कार्यालयाचा पत्ता येथे टाका]",
+      "address_en": "Campaign Office: [Your office address here]"
+    }
+  },
+  "manifesto": {
+    "title": "घोषणापत्र",
+    "title_en": "Manifesto",
+    "priorities": [
+      "स्वच्छ पाणी आणि नियमित पुरवठा सुनिश्चित करणे.",
+      "रस्त्यांचे दुरुस्ती व प्रकाशव्यवस्था सुधारणा.",
+      "कचरा व्यवस्थापन व पुनर्वापर कार्यक्रम सुरू करणे.",
+      "प्राथमिक आरोग्य सुविधा व मोबाइल हेल्थ कॅम्प आयोजन.",
+      "शाळांमध्ये सुसज्ज सुविधा आणि शैक्षणिक सहाय्य वाढवून विद्यार्थ्यांसाठी संधी निर्माण करणे.",
+      "स्थानिक नोकर्‍या आणि कौशल्य प्रशिक्षण कार्यक्रमांना बढत देणे."
+    ],
+    "priorities_en": [
+      "Ensuring clean water and regular supply.",
+      "Road repairs and improved lighting.",
+      "Starting waste management and recycling programs.",
+      "Organizing primary health facilities and mobile health camps.",
+      "Creating opportunities for students by improving school facilities and increasing educational assistance.",
+      "Promoting local jobs and skill training programs."
+    ]
+  },
+  "issues": {
+    "title": "समस्या आणि उपाय",
+    "title_en": "Issues & Solutions",
+    "items": [
+      {
+        "title": "रस्ते आणि पायाभूत सुविधा",
+        "title_en": "Roads and Infrastructure",
+        "description": "तातडीने पायाभूत रस्ते दुरुस्ती, पावसाळी नियोजन, जलनिकासी व्यवस्था मजबूत करणे आणि वारंवार देखरेख सुनिश्चित करणे.",
+        "description_en": "Immediate infrastructure road repairs, monsoon planning, strengthening drainage systems and ensuring regular maintenance.",
+        "actions": [
+          "सर्व रस्त्यांची तातडीने दुरुस्ती",
+          "पावसाळी जलनिकासी योजना",
+          "नियमित देखभाल व्यवस्था"
+        ],
+        "actions_en": [
+          "Immediate repair of all roads",
+          "Monsoon drainage planning",
+          "Regular maintenance system"
+        ]
+      },
+      {
+        "title": "पाणी आणि स्वच्छता",
+        "title_en": "Water and Sanitation",
+        "description": "स्वच्छ पिण्याचे पाणी आणि नियमित पुरवठा सुनिश्चित करणे, कचरा व्यवस्थापन सुधारणे आणि पुनर्वापर कार्यक्रम सुरू करणे.",
+        "description_en": "Ensuring clean drinking water and regular supply, improving waste management and starting recycling programs.",
+        "actions": [
+          "दैनंदिन पाणी पुरवठा सुनिश्चित करणे",
+          "कचरा संकलन आणि विल्हेवाट लावणे",
+          "पुनर्वापर केंद्रे स्थापित करणे"
+        ],
+        "actions_en": [
+          "Ensuring daily water supply",
+          "Waste collection and disposal",
+          "Establishing recycling centers"
+        ]
+      },
+      {
+        "title": "आरोग्य आणि शिक्षण",
+        "title_en": "Health and Education",
+        "description": "प्राथमिक आरोग्य सुविधा मजबूत करणे, मोबाइल हेल्थ कॅम्प आयोजित करणे आणि शाळांमध्ये सुविधा वाढवणे.",
+        "description_en": "Strengthening primary health facilities, organizing mobile health camps and increasing facilities in schools.",
+        "actions": [
+          "वैद्यकीय सुविधा वाढवणे",
+          "शैक्षणिक साहित्य पुरवठा",
+          "कौशल्य प्रशिक्षण कार्यक्रम"
+        ],
+        "actions_en": [
+          "Increasing medical facilities",
+          "Educational material supply",
+          "Skill training programs"
+        ]
+      },
+      {
+        "title": "रोजगार आणि विकास",
+        "title_en": "Employment and Development",
+        "description": "स्थानिक रोजगाराच्या संधी निर्माण करणे, कौशल्य प्रशिक्षण देणे आणि लघु उद्योगांना प्रोत्साहन देणे.",
+        "description_en": "Creating opportunities for local employment, providing skill training and encouraging small industries.",
+        "actions": [
+          "रोजगार मेळावे आयोजित करणे",
+          "कौशल्य विकास प्रशिक्षण",
+          "लघु उद्योगांना सहाय्य"
+        ],
+        "actions_en": [
+          "Organizing job fairs",
+          "Skill development training",
+          "Assistance to small industries"
+        ]
+      }
+    ]
+  },
+  "events": {
+    "title": "कार्यक्रम आणि घटना",
+    "title_en": "Events & Programs",
+    "upcoming_title": "आगामी कार्यक्रम",
+    "upcoming_title_en": "Upcoming Events",
+    "rsvp_text": "RSVP करा",
+    "rsvp_text_en": "RSVP Now",
+    "items": [
+      {
+        "title": "जनसंपर्क सभा",
+        "title_en": "Public Meeting",
+        "date": "15/12/2025",
+        "time": "सकाळी 10:00",
+        "time_en": "10:00 AM",
+        "location": "प्रभाग क्र. 4 समुदाय हॉल",
+        "location_en": "Ward 4 Community Hall",
+        "description": "मतदारांशी संवाद आणि समस्या चर्चा",
+        "description_en": "Dialogue with voters and discussion of issues"
+      },
+      {
+        "title": "स्वयंसेवक भेटी",
+        "title_en": "Volunteer Meetings",
+        "date": "20/12/2025",
+        "time": "संध्याकाळी 5:00",
+        "time_en": "5:00 PM",
+        "location": "प्रचार कार्यालय",
+        "location_en": "Campaign Office",
+        "description": "स्वयंसेवकांचे प्रशिक्षण आणि नियोजन",
+        "description_en": "Volunteer training and planning"
+      }
+    ]
+  },
+  "volunteer": {
+    "title": "स्वयंसेवक व्हा",
+    "title_en": "Become a Volunteer",
+    "headline": "आपणही बदलाचा भाग व्हा",
+    "headline_en": "Be Part of the Change",
+    "content": "आपल्या वेळेचा किंवा कौशल्यांचा उपयोग करून आपल्या भागात सकारात्मक बदल घडवू शकता. खालीलपैकी ज्या कामात रुची आहे ते निवडा — घरपोच भेटी, टेलिफोन संपर्क, कार्यक्रम आयोजन, सोशल मिडिया प्रचार.",
+    "content_en": "You can bring positive change to our area by utilizing your time or skills. Choose from the following activities that interest you — door-to-door visits, telephone contact, event organization, social media promotion.",
+    "cta": "आता नोंदणी करा",
+    "cta_en": "Register Now",
+    "roles": [
+      {
+        "title": "घरपोच भेटी",
+        "title_en": "Door-to-Door Visits",
+        "description": "मतदारांना भेटून मतदानाबद्दल माहिती देणे"
+      },
+      {
+        "title": "टेलिफोन संपर्क",
+        "title_en": "Phone Banking",
+        "description": "मतदारांशी दूरध्वनीवरून संपर्क साधणे"
+      },
+      {
+        "title": "सोशल मिडिया",
+        "title_en": "Social Media",
+        "description": "ऑनलाइन प्रचार आणि सामग्री तयार करणे"
+      },
+      {
+        "title": "कार्यक्रम आयोजन",
+        "title_en": "Event Organization",
+        "description": "स्थानिक कार्यक्रमांचे आयोजन आणि व्यवस्थापन"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "गॅलरी",
+    "title_en": "Gallery",
+    "photos_title": "छायाचित्रे",
+    "photos_title_en": "Photos",
+    "videos_title": "व्हिडिओ",
+    "videos_title_en": "Videos"
+  },
+  "news": {
+    "title": "बातम्या आणि अद्यतने",
+    "title_en": "News & Updates",
+    "read_more": "अधिक वाचा",
+    "read_more_en": "Read More",
+    "items": [
+      {
+        "title": "प्रचार कार्यालयाचे उद्घाटन",
+        "title_en": "Campaign Office Inauguration",
+        "date": "01/12/2025",
+        "excerpt": "प्रभाग क्र. 4 मध्ये आमचे प्रचार कार्यालयाचे उद्घाटन झाले...",
+        "excerpt_en": "Our campaign office in Ward 4 was inaugurated..."
+      }
+    ]
+  },
+  "contact": {
+    "title": "संपर्क",
+    "title_en": "Contact",
+    "headline": "संपर्क साधा",
+    "headline_en": "Get in Touch",
+    "blurb": "आपले प्रश्न, सूचना किंवा सहभागासाठी कृपया खालील फॉर्म भरा किंवा आमच्याशी थेट संपर्क करा.",
+    "blurb_en": "Please fill the form below or contact us directly for your questions, suggestions or participation.",
+    "form": {
+      "name": "नाव",
+      "name_en": "Name",
+      "phone": "दूरध्वनी",
+      "phone_en": "Phone",
+      "email": "ईमेल",
+      "email_en": "Email",
+      "message": "संदेश",
+      "message_en": "Message",
+      "submit": "पाठवा",
+      "submit_en": "Send"
+    },
+    "office_address": "प्रचार कार्यालय: [तुमचा कार्यालयाचा पत्ता येथे टाका]",
+    "office_address_en": "Campaign Office: [Your office address here]",
+    "phone": "+91-9876543210",
+    "whatsapp": "+91-9876543210"
+  },
+  "footer": {
+    "legal": "सर्व हक्क राखीव. प्रचार खर्च व अधिकृत माहिती येथे मिळेल.",
+    "legal_en": "All rights reserved. Campaign expenses and official information available here.",
+    "quick_links": "द्रुत दुवे",
+    "quick_links_en": "Quick Links"
+  },
+  "social": {
+    "facebook": "https://facebook.com/fayyazshaikh",
+    "twitter": "https://twitter.com/fayyazshaikh",
+    "instagram": "https://instagram.com/fayyazshaikh",
+    "youtube": "https://youtube.com/fayyazshaikh"
+  },
+  "navigation": {
+    "home": "मुख्यपृष्ठ",
+    "home_en": "Home",
+    "about": "आमच्याविषयी",
+    "about_en": "About",
+    "manifesto": "घोषणापत्र",
+    "manifesto_en": "Manifesto",
+    "issues": "समस्या",
+    "issues_en": "Issues",
+    "events": "कार्यक्रम",
+    "events_en": "Events",
+    "volunteer": "स्वयंसेवक",
+    "volunteer_en": "Volunteer",
+    "gallery": "गॅलरी",
+    "gallery_en": "Gallery",
+    "news": "बातम्या",
+    "news_en": "News",
+    "contact": "संपर्क",
+    "contact_en": "Contact",
+    "language": "English",
+    "language_en": "मराठी"
+  },
+  "ctas": {
+    "volunteer": "स्वयंसेवक व्हा",
+    "volunteer_en": "Volunteer",
+    "donate": "दान करा",
+    "donate_en": "Donate",
+    "contact": "संपर्क करा",
+    "contact_en": "Contact"
+  }
+}
+
+

@@ -1,0 +1,15 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="campaign" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b35"/>
+      <stop offset="100%" style="stop-color:#1a365d"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#campaign)"/>
+  <text x="200" y="140" text-anchor="middle" fill="white" font-family="Arial" font-size="18" font-weight="bold">प्रचार कार्यालयाचे</text>
+  <text x="200" y="160" text-anchor="middle" fill="white" font-family="Arial" font-size="18" font-weight="bold">उद्घाटन</text>
+  <circle cx="200" cy="200" r="30" fill="white" opacity="0.7"/>
+  <text x="200" y="250" text-anchor="middle" fill="#ff6b35" font-family="Arial" font-size="12">📸 Campaign Photo</text>
+</svg>
+
+
